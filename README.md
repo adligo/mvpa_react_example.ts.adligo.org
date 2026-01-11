@@ -3,7 +3,7 @@
 
 This will be an example of MVP@ using react.
 
-
+NOTE: The mvpa_react_example2.ts.adligo.org is working better than this project, you will likely want that one.
 
 ## Notes
 
